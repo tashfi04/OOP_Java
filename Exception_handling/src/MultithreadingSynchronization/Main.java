@@ -11,10 +11,10 @@ package MultithreadingSynchronization;
  */
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        Thread obj1 = new Thread();
+        SubThread obj1 = new SubThread();
         Operation a = new Operation();
         obj1.setname("one", a);
-        Thread obj2 = new Thread();
+        SubThread obj2 = new SubThread();
         obj2.setname("two", a);
 
         obj1.start();
