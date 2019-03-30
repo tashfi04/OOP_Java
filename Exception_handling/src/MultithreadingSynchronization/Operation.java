@@ -10,8 +10,6 @@ package MultithreadingSynchronization;
  * @author Tasfee
  */
 public class Operation {
-    class op {
-
     int num = 0;
 
    synchronized  public void operation(int num, String ThreadName) {
@@ -21,5 +19,4 @@ public class Operation {
             this.num -= num;
         }
     }
-}
 }
