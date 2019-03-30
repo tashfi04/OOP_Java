@@ -30,8 +30,8 @@ public class Throws {
 //        } catch(ArithmeticException ex) {
 //            System.out.println("Arithmetic exception!");
 //        }
-
-          Thread.sleep(100);
+          Thread t = new Thread();
+          t.sleep(100);
           System.out.println("****");
     }
 }
