@@ -1,0 +1,27 @@
+Total chartectar: 158
+Total word: 30
+Total unique word: 24
+Java 1
+a 1
+general 1
+purpose 1
+computer 1
+programming 1
+language 1
+that 1
+concurrent 1
+class 1
+based 1
+object 1
+oriented 1
+and 1
+specifically 1
+designed 1
+to 1
+have 1
+few 1
+implementation 1
+dependencies 1
+possible 1
+is 2
+as 2
